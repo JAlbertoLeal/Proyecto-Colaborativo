@@ -1,3 +1,6 @@
+/* Correcion realizada por Rafael Garcia Diaz
+   TODO FUNCIONA CORRECTAMENTE!!*/ 
+
 import java.util.Scanner;
 public class Aciertos {
 
